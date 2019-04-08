@@ -16,9 +16,9 @@ As recommended, I will keep this document live and update regularly. Also, if an
 
 # My expectations of teammates
 
-- **Do fantastic work** and notify me if something preventing you from accomplishing this.
+- **Do fantastic work** and notify me if something is preventing you from accomplishing this.
 - **Communicate effectively and frequently** and please reach out and tell me if anything, at all, feels off.
-- If you'd agreed to do something and be responsible for it, then please do it.
+- Have a sense of **ownership** and **responsibility** for the tasks on which you work
 - **Learn to grow and grow to learn.** I'll try to provide opportunities for growth and learning, but it will be up to you to take advantage of them. Please invest in yourself and focus on self-improvement.
 - **Feedback** is essential for our growth. Everyone makes mistakes, and I would like to correct and learn from them. I believe that feedback is at the core of building trust and respect in a team. It is very likely that your feedback will impact the relationship and mutual understanding straight away.
 
@@ -26,7 +26,7 @@ As recommended, I will keep this document live and update regularly. Also, if an
 
 ## One-on-ones
 
-Highly likely, that we'll have a **1:1** (regular talks on an individual basis) every week for at least 30 minutes. Coffee in the cafe, private meeting room, head out for a walk, let me know what works best (I prefer a walk :) ). Feel free to come with a topic you'd like to discuss. Even better if you spent a few minutes beforehand preparing so that we can get the most of our time.
+Highly likely, that we'll have a **1:1** (regular talks on an individual basis) every week for at least 30 minutes. Coffee in a cafe, private meeting room, head out for a walk, let me know what works best (I prefer a walk :) ). Feel free to come with a topic you'd like to discuss. Even better if you spent a few minutes beforehand preparing so that we can get the most of our time.
 
 Some interesting articles about one-on-ones:
 
