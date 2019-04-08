@@ -20,7 +20,7 @@ As recommended, I will keep this document live and update regularly. Also, if an
 - **Communicate effectively and frequently** and please reach out and tell me if anything, at all, feels off.
 - If you'd agreed to do something and be responsible for it, then please do it.
 - **Learn to grow and grow to learn.** I'll try to provide opportunities for growth and learning, but it will be up to you to take advantage of them. Please invest in yourself and focus on self-improvement.
-- **Feedback** is essential for our growth. Everyone makes mistakes, and I would like to correct and learn from them. It is very likely that providing your feedback will impact and improve the relationship and mutual understanding straight away.
+- **Feedback** is essential for our growth. Everyone makes mistakes, and I would like to correct and learn from them. I believe that feedback is at the core of building trust and respect in a team. It is very likely that your feedback will impact the relationship and mutual understanding straight away.
 
 # Management practices I use
 
@@ -55,8 +55,7 @@ In addition to a project being on-track, I value when it contains the following:
 - Full and complete CI/CD for all project's parts
 - [Feature flags](https://stackoverflow.com/questions/7707383/what-is-a-feature-flag)
 - Polite, effective and helpful **code reviews**. See [The art of reviewing code](https://blog.usejournal.com/the-art-of-reviewing-code-e10a3a830a2e) and [Code Review Best Practices](https://medium.com/palantir/code-review-best-practices-19e02780015f)
-- **Tests**: there's no need to aim for 100% test coverage, but it should be decent enough.
-- Every project has it's own guidelines and agreements, from JIRA tasks templates to the code style and git usage. Once set up, I expect the team to follow them.
+- **Tests**: there's no need to aim for 100% test coverage, or for any other pre-defined number. On the other hand, sufficiency of testing is much more complicated attribute than coverage can answer. I also recommend reading [this great piece](https://martinfowler.com/bliki/TestCoverage.html) by Martin Fowler.
 
 # Sources
 
