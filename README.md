@@ -18,7 +18,7 @@ As recommended, I will keep this document live and update regularly. Also, if an
 
 - **Do fantastic work** and notify me if something is preventing you from accomplishing this.
 - **Communicate effectively and frequently** and please reach out and tell me if anything, at all, feels off.
-- Have a sense of **ownership** and **responsibility** for the tasks on which you work
+- Have a sense of **ownership** and **responsibility** for the current tasks.
 - **Learn to grow and grow to learn.** I'll try to provide opportunities for growth and learning, but it will be up to you to take advantage of them. Please invest in yourself and focus on self-improvement.
 - **Feedback** is essential for our growth. Everyone makes mistakes, and I would like to correct and learn from them. I believe that feedback is at the core of building trust and respect in a team. It is very likely that your feedback will impact the relationship and mutual understanding straight away.
 
